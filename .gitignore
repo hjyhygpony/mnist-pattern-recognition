@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Datasets and generated outputs
+data/
+MNIST/
+mnist课程数据集/
+bayesian_results/
+results/
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# OS / archives
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
