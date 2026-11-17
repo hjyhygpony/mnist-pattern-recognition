@@ -1,0 +1,18 @@
+Data Size Experiment Results
+==================================================
+
+Training Size: 1000
+Final Test Accuracy: 0.9428
+--------------------------------------------------
+Training Size: 5000
+Final Test Accuracy: 0.9796
+--------------------------------------------------
+Training Size: 10000
+Final Test Accuracy: 0.9829
+--------------------------------------------------
+Training Size: 30000
+Final Test Accuracy: 0.9899
+--------------------------------------------------
+Training Size: 60000
+Final Test Accuracy: 0.9901
+--------------------------------------------------

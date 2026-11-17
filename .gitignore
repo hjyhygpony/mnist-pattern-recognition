@@ -6,11 +6,11 @@ venv/
 .pytest_cache/
 
 # Datasets and generated outputs
-data/
-MNIST/
-mnist课程数据集/
-bayesian_results/
-results/
+/data/
+/MNIST/
+/mnist课程数据集/
+/bayesian_results/
+/results/
 
 # Editors
 .vscode/
@@ -23,3 +23,4 @@ Thumbs.db
 *.zip
 *.rar
 *.7z
+

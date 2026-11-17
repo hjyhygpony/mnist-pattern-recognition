@@ -1,0 +1,19 @@
+Network Architecture Experiment Results
+==================================================
+
+Architecture: Small
+Configuration: {'conv_layers': [(8, 3), (16, 3)], 'fc_layers': [784, 10]}
+Final Test Accuracy: 0.9868
+--------------------------------------------------
+Architecture: Medium
+Configuration: {'conv_layers': [(16, 5), (32, 5)], 'fc_layers': [1568, 10]}
+Final Test Accuracy: 0.9909
+--------------------------------------------------
+Architecture: Large
+Configuration: {'conv_layers': [(32, 5), (64, 5)], 'fc_layers': [3136, 128, 10]}
+Final Test Accuracy: 0.9922
+--------------------------------------------------
+Architecture: Deep
+Configuration: {'conv_layers': [(16, 3), (32, 3), (64, 3)], 'fc_layers': [576, 128, 10]}
+Final Test Accuracy: 0.9904
+--------------------------------------------------
